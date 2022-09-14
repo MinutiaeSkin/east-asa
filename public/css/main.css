@@ -1,0 +1,103 @@
+.dark-purple {
+  color: #293061
+}
+.east-color {
+  color: #512d75
+}
+.eastcolor {
+  color: #5f15a9;
+  text-align: center
+}
+.margintop {
+  padding-top: 0;
+  margin-top: 0
+}
+.marginbottom {
+  padding-bottom: 15px
+}
+.margin.remargin {
+  margin-left: 8px;
+  padding-left: 6px;
+  left: 12px
+}
+.remargin {
+  padding-left: 40px;
+  padding-right: 40px
+}
+.alta-color {
+  color: #c95d2e
+}
+.range {
+  padding-right: 22px;
+  margin-right: -150px;
+  overflow-x: initial;
+  overflow-y: initial
+}
+.mgt-20,
+.sizes {
+  overflow-x: auto;
+  overflow-y: auto
+}
+.background-color {
+  background-color: rgba(251,249,251,.863)
+}
+.pdas {
+  padding-right: 19px;
+  margin-right: 150px
+}
+.backg {
+  background-color: rgba(250,249,250,.69)
+}
+.img-size {
+  width: 60px;
+  height: 80px;
+  max-height: 80px
+}
+.sizes {
+  height: 54px;
+  width: 135px;
+  min-width: 165px;
+  opacity: .73;
+  max-height: 82px
+}
+.size-m {
+  width: 124px;
+  height: 66px
+}
+.img {
+  height: 28px;
+  width: 160px
+}
+.navi {
+  padding-top: 5px
+}
+.bgrd {
+  background-color: #f0f3ef
+}
+.btn-color {
+  background-color: #512d75;
+  color: #fff
+}
+.btn-alta {
+  background-color: #f6ae2d;
+  color: #fff
+}
+.sect {
+  margin-top: -90px
+}
+.btn-info {
+  background-color: #a14acd;
+  color: #fff;
+  padding-right: 60px;
+  padding-left: 50px
+}
+.mh {
+  max-height: 224px
+}
+.max-h {
+  max-height: 240px
+}
+.bkg {
+  background-color: #f9f6fb
+}
+
